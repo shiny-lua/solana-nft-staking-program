@@ -16,9 +16,9 @@ Yes, I do know this program does not use Metaplex's new "Collections" feature. N
 
 ## Support
 
-If this repo helped you or your project in any way, any tips sent to A858S5BKJhrbc4mm8VcMMRWthBgtMu2AjDkAmrEKKEdD on Solana are highly appreciated.
+If this repo helped you or your project in any way, any tips sent to 6yznLKm5n4QeDDgUgyeKDwesZy5YM7kwfk6r4aGkxFvo on Solana are highly appreciated.
 
-Contributions by https://github.com/lucky-whistle-dev
+Contributions by https://github.com/i3-sol
 
 # Staking Setup + Commands
 
